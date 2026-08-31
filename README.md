@@ -12,7 +12,7 @@ the work is finished.
 | Lab | Topic | Status |
 | --- | --- | --- |
 | 01 | Introduction to Python for AI | Complete |
-| 02 | Intelligent Agents | Manual added |
+| 02 | Intelligent Agents | Complete |
 | 03 | Uninformed Search — BFS and DFS | Manual added |
 | 04 | Informed Search — Greedy Best-First Search | Manual added |
 | 05 | A* Search | Manual added |
@@ -44,7 +44,8 @@ labs/
 │   ├── introduction-to-python-for-ai.pdf
 │   └── introduction-to-python-for-ai.ipynb
 ├── 02-intelligent-agents/
-│   └── intelligent-agents.pdf
+│   ├── intelligent-agents.pdf
+│   └── 2_Intelligent_Agents.ipynb
 └── ...
 ```
 
